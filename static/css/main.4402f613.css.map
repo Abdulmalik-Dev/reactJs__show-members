@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4402f613.css","mappings":"AAAA,KAEE,8CAIC,CALD,gBAMF","sources":["App.css"],"sourcesContent":["body {\n  padding-top: 10px;\n  background: linear-gradient(\n    to right,\n    hsl(200, 100%, 50%),\n    hsl(175, 100%, 50%)\n  );\n}\n"],"names":[],"sourceRoot":""}
